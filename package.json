@@ -1,0 +1,15 @@
+{
+	"name": "imba-parcel-boilerplate",
+	"version": "0.0.0",
+	"scripts": {
+		"build": "parcel build source/index.html -d public/",
+		"serve": "parcel source/index.html -d public/"
+	},
+	"author": "pushqrdx",
+	"license": "MIT",
+	"devDependencies": {
+		"sass": "^1.16.1",
+		"parcel-bundler": "^1.10.3",
+		"parcel-plugin-imba": "^0.1.2"
+	}
+}

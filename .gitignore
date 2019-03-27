@@ -5,6 +5,7 @@ public/**
 .git
 .cache
 .vscode
+.DS_Store
 
 # Files
 package-lock.json

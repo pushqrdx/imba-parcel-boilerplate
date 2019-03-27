@@ -1,5 +1,30 @@
 .App {
+	display: grid;
+	height: 100vh;
+
+	grid-template-columns: 1fr;
+	grid-template-rows: repeat(3, 1fr);
+
 	h1 {
-		color: navajowhite;
+		cursor: pointer;
+	}
+
+	.full-size {
+		width: 100% !important;
+		height: 100% !important;
+	}
+
+	.row {
+		display: flex;
+	}
+
+	.column {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.flex-center {
+		justify-content: center;
+		align-items: center;
 	}
 }

@@ -1,3 +1,4 @@
+import 'imba-router'
 import { App } from './components/main/app'
 
 Imba.mount <App>

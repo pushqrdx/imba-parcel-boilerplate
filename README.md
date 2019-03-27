@@ -1,4 +1,4 @@
-#### _Note: This boilerplate is using my fork of `imba` which isn't always synced with upstream. (Current 1.4.2)_
+#### _Note: This boilerplate is using my fork of imba which isn't always synced with upstream. (Current v1.4.2)_
 
 ---
 

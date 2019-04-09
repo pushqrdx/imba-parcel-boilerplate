@@ -14,6 +14,6 @@
 	},
 	"dependencies": {
 		"imba": "github:pushqrdx/imba",
-		"imba-router": "^0.2.0"
+		"imba-router": "github:pushqrdx/imba-router"
 	}
 }
